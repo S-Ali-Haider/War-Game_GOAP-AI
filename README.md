@@ -12,3 +12,8 @@ Game features:
 * A dialogue box system for providing instructions.
 * Unique character animation through animating each limb separately.
 
+Instructions:
+
+1) Download Files.zip and UnityPlayer.dll.
+2) Unzip files.zip and put UnityPlayer.dll in the same folder as the contents of the unzipped file.
+3) Run Arena Mini Game.exe to play the Game.
